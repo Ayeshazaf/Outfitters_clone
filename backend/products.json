@@ -1,0 +1,92 @@
+[
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Multi-Piece Sneakers Black",
+      "price": 12990,
+      "description": "Stylish black sneakers for casual wear",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    }
+  },
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Multi-Piece Mesh Sneakers White",
+      "price": 13990,
+      "description": "Breathable white mesh sneakers",
+      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77"
+    }
+  },
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Chunky Sneakers Grey",
+      "price": 12990,
+      "description": "Chunky sole sneakers with modern look",
+      "image": "https://images.unsplash.com/photo-1519741497674-611481863552"
+    }
+  },
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Monochrome Sneakers White",
+      "price": 12990,
+      "description": "Clean monochrome white sneakers",
+      "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+    }
+  },
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Suede Sneakers Beige",
+      "price": 10990,
+      "description": "Soft suede finish casual sneakers",
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5"
+    }
+  },
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Contrast Trainers Black White",
+      "price": 10990,
+      "description": "Sporty contrast trainers",
+      "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b"
+    }
+  },
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Mesh Sneakers Beige",
+      "price": 12990,
+      "description": "Lightweight beige sneakers",
+      "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3"
+    }
+  },
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Multi-Piece Sneakers Brown",
+      "price": 12990,
+      "description": "Brown sneakers for everyday use",
+      "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a"
+    }
+  },
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Sneakers Yellow Green",
+      "price": 9990,
+      "description": "Colorful sneakers for bold style",
+      "image": "https://images.unsplash.com/photo-1562183241-b937e95585b6"
+    }
+  },
+  {
+    "model": "api.product",
+    "fields": {
+      "name": "Classic Black Sneakers",
+      "price": 9990,
+      "description": "Minimal black everyday sneakers",
+      "image": "https://images.unsplash.com/photo-1528701800489-20be3c4d4f7d"
+    }
+  }
+]
