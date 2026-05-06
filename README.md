@@ -87,14 +87,7 @@ npm run dev
 
 ---
 
-## Future Improvements
 
-* Authentication (Login/Signup)
-* Cart functionality
-* Payment integration
-* Admin dashboard
-
----
 
 ## Author
 
