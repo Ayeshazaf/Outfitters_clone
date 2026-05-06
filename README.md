@@ -43,7 +43,7 @@ project/
 ### 1. Clone Repository
 
 ```
-git clone <(https://github.com/Ayeshazaf/Outfitters_clone/edit/main/README.md)>
+git clone <(https://github.com/Ayeshazaf/Outfitters_clone)>
 cd project
 ```
 
